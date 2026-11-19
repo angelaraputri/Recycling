@@ -1,0 +1,6 @@
+{
+  "name": "Kuro EcoPark - Game Daur Ulang 3D",
+  "description": "Interactive 3D educational recycling game for elementary students guided by Kuro the black kitten.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
